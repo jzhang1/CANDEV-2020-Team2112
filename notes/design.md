@@ -10,6 +10,8 @@
   - Long term would like real time stream processing capabilities
   - Public read permission
     - Write permission only for data importer
+  - Once per day batch update to database
+  - Data does not have to be updated once written
 
 #### Azure Table Store
 - Streaming: Azure Stream Analytics
@@ -20,6 +22,7 @@
 #### Azure SQL Serverless
 - PowerBI
 - R via ODBC driver
+- Can PowerBI handle geo-queries?
 
 ### Data
 - 7,400,731 lines
